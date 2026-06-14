@@ -21,3 +21,7 @@ Open `Campanile.xcodeproj` in Xcode and build the target.
 ## License
 
 © 2026 Big Fun Digital. All rights reserved.
+
+## Support
+
+Found a bug or have a feature request? Open an issue on GitHub.

@@ -118,7 +118,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
                 backing: .buffered,
                 defer: false
             )
-            window.title = "Church Bells Preferences"
+            window.title = "Campanile Preferences"
             window.contentView = NSHostingView(rootView: PreferencesView())
             window.center()
             preferencesWindow = window
